@@ -6,7 +6,7 @@
 export default {
     data(){
         return{
-            message : "Calculator | by Anza"
+            message : "Kalculator Elektronik | by Sopian"
         }
     }
 }
