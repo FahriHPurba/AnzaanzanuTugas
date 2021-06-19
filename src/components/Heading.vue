@@ -6,7 +6,7 @@
 export default {
     data(){
         return{
-            message : "Kalculator Elektronik | by Sopian"
+            message : "Kalculator web | by putri"
         }
     }
 }
