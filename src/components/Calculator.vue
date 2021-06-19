@@ -85,7 +85,7 @@ export default {
 
 <style >
 *{
-    background: rgba(250, 6, 148, 0.89);
+    background: rgba(6, 250, 108, 0.918);
 }
 .calc{
     width: 400px;

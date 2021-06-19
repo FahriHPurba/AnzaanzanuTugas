@@ -6,7 +6,7 @@
 export default {
     data(){
         return{
-            message : "Kalculator web | by putri"
+            message : "Kalculator | by dimas"
         }
     }
 }
